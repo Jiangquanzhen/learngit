@@ -1,3 +1,3 @@
 Jiangquanzhen first git file add test.
 Git is a free softwore.
-the new line.
+a new line.
